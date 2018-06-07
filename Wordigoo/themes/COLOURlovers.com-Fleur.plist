@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>paletteColor1</key>
+	<string>BEB1A7</string>
+	<key>paletteColor2</key>
+	<string>FFBCAE</string>
+	<key>paletteColor3</key>
+	<string>F5EEE4</string>
+	<key>paletteColor4</key>
+	<string>933858</string>
+	<key>paletteColor5</key>
+	<string>F6DFD5</string>
+</dict>
+</plist>

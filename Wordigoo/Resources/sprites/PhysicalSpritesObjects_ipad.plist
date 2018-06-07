@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>about</key>
+	<dict>
+		<key>app</key>
+		<string>SpriteHelper</string>
+		<key>author</key>
+		<string>Vladu Bogdan</string>
+		<key>web</key>
+		<string>http://www.gamedevhelper.com</string>
+	</dict>
+	<key>frames</key>
+	<dict>
+		<key>6gen</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<true/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>0.25</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{15.560081599211403, -27.060270463790321}</string>
+								<string>{31.125796478710583, 0.094016286349234507}</string>
+								<string>{15.556633439976338, 26.873430950443314}</string>
+								<string>{-15.708491022161414, 26.908392309236497}</string>
+								<string>{-31.342777332847813, -0.043126576025210583}</string>
+								<string>{-15.639919590974189, -26.923127601415878}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.001000000047497451</real>
+						<key>name</key>
+						<string>6gen</string>
+						<key>restitution</key>
+						<real>0.001000000047497451</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>2</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{1, 1}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 255}, {253, 255}}</string>
+		</dict>
+		<key>6gensari</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array/>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>3</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{67, 0}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{254, 255}, {253, 255}}</string>
+		</dict>
+		<key>quibble_hive</key>
+		<dict>
+			<key>body</key>
+			<dict>
+				<key>active</key>
+				<true/>
+				<key>awake</key>
+				<true/>
+				<key>bullet</key>
+				<false/>
+				<key>fixed</key>
+				<false/>
+				<key>gravityScale</key>
+				<real>1</real>
+				<key>shapes</key>
+				<array>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{271.91542383345052, -0.36376361297601173}</string>
+								<string>{384.96805922494872, -0.36376361297594478}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+								<string>{272.52088965731781, 54.472668072853082}</string>
+							</array>
+							<array>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+								<string>{-384.36309076720318, 3.5190944854531341}</string>
+								<string>{-271.36565685782961, 2.6565713272538365}</string>
+								<string>{-273.55390668084539, 54.880067933268421}</string>
+							</array>
+							<array>
+								<string>{-273.82174047903436, 163.22896746956209}</string>
+								<string>{-257.11251259873848, 191.16020642355886}</string>
+								<string>{-273.82174047903436, 218.25418342019165}</string>
+							</array>
+							<array>
+								<string>{16.717105344948511, 382.56907085439047}</string>
+								<string>{32.246964231538172, 354.03464317842179}</string>
+								<string>{63.923374951808157, 354.61082345015615}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+							</array>
+							<array>
+								<string>{-273.84199681671254, 109.02075713861832}</string>
+								<string>{-257.40060273460563, 135.84690033706212}</string>
+								<string>{-273.82174047903436, 163.22896746956209}</string>
+							</array>
+							<array>
+								<string>{-64.852915780817071, 354.322733314289}</string>
+								<string>{-32.888414924679921, 354.59731922503738}</string>
+								<string>{-18.717981366713467, 382.28098071852332}</string>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+							</array>
+							<array>
+								<string>{272.52088965731781, 108.92170375174831}</string>
+								<string>{256.09975191288908, 81.553140844367121}</string>
+								<string>{272.52088965731781, 54.472668072853082}</string>
+							</array>
+							<array>
+								<string>{272.52088965731781, 163.37073943064354}</string>
+								<string>{256.09975191288908, 136.00217652326234}</string>
+								<string>{272.52088965731781, 108.92170375174831}</string>
+							</array>
+							<array>
+								<string>{-273.55390668084539, 54.880067933268421}</string>
+								<string>{-257.40060273460563, 81.397864658166881}</string>
+								<string>{-273.84199681671254, 109.02075713861832}</string>
+							</array>
+							<array>
+								<string>{272.54114599499593, 218.38357650824759}</string>
+								<string>{256.09975191288908, 191.3154826097591}</string>
+								<string>{272.52088965731781, 163.37073943064354}</string>
+							</array>
+							<array>
+								<string>{-113.53227127771628, 326.41850281052979}</string>
+								<string>{-80.113815517124493, 326.70659294639694}</string>
+								<string>{-64.852915780817071, 354.322733314289}</string>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+							</array>
+							<array>
+								<string>{-257.11251259873848, 247.06319700690872}</string>
+								<string>{-224.41433837587323, 246.9056253111907}</string>
+								<string>{-208.85747103904603, 273.69800794683755}</string>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+							</array>
+							<array>
+								<string>{63.923374951808157, 354.61082345015615}</string>
+								<string>{80.358016921355656, 326.66608027104058}</string>
+								<string>{112.34277411517097, 326.95417040690779}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+							</array>
+							<array>
+								<string>{159.89790287093226, 301.05194127700673}</string>
+								<string>{175.74286034362666, 273.97146850549274}</string>
+								<string>{208.00895556074974, 273.97146850549274}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+							</array>
+							<array>
+								<string>{112.34277411517097, 326.95417040690779}</string>
+								<string>{127.59129497845285, 301.02605817886246}</string>
+								<string>{159.89790287093226, 301.05194127700673}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+							</array>
+							<array>
+								<string>{-208.85747103904603, 273.69800794683755}</string>
+								<string>{-177.16755609365725, 273.69800794683755}</string>
+								<string>{-161.04688735812127, 300.7784807183516}</string>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+							</array>
+							<array>
+								<string>{-161.04688735812127, 300.7784807183516}</string>
+								<string>{-128.78079214099816, 301.06657085421875}</string>
+								<string>{-113.53227127771628, 326.41850281052979}</string>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+							</array>
+							<array>
+								<string>{272.52088965731781, 54.472668072853082}</string>
+								<string>{256.96402232049059, 26.816015029604714}</string>
+								<string>{271.91542383345052, -0.36376361297601173}</string>
+							</array>
+							<array>
+								<string>{272.52088965731781, 108.92170375174831}</string>
+								<string>{272.52088965731781, 54.472668072853082}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+							</array>
+							<array>
+								<string>{272.52088965731781, 163.37073943064354}</string>
+								<string>{272.52088965731781, 108.92170375174831}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+								<string>{272.54114599499593, 218.38357650824759}</string>
+							</array>
+							<array>
+								<string>{256.63249476559167, 246.34821406880923}</string>
+								<string>{272.54114599499593, 218.38357650824759}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+							</array>
+							<array>
+								<string>{224.14200316931129, 247.17908586984586}</string>
+								<string>{256.63249476559167, 246.34821406880923}</string>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+								<string>{208.00895556074974, 273.97146850549274}</string>
+							</array>
+							<array>
+								<string>{-271.36565685782961, 2.6565713272538365}</string>
+								<string>{-258.28512947988531, 26.93532475415288}</string>
+								<string>{-273.55390668084539, 54.880067933268421}</string>
+							</array>
+							<array>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+								<string>{-273.55390668084539, 54.880067933268421}</string>
+								<string>{-273.84199681671254, 109.02075713861832}</string>
+							</array>
+							<array>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+								<string>{-273.84199681671254, 109.02075713861832}</string>
+								<string>{-273.82174047903436, 163.22896746956209}</string>
+								<string>{-273.82174047903436, 218.25418342019165}</string>
+							</array>
+							<array>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+								<string>{-273.82174047903436, 218.25418342019165}</string>
+								<string>{-257.11251259873848, 247.06319700690872}</string>
+							</array>
+							<array>
+								<string>{384.83890602643783, 512.79594043519069}</string>
+								<string>{-386.40767338568492, 513.64420913995048}</string>
+								<string>{-18.717981366713467, 382.28098071852332}</string>
+								<string>{16.717105344948511, 382.56907085439047}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.2000000029802322</real>
+						<key>name</key>
+						<string>UntitledShape</string>
+						<key>restitution</key>
+						<real>0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>4</integer>
+					</dict>
+					<dict>
+						<key>density</key>
+						<real>1</real>
+						<key>fixtures</key>
+						<array>
+							<array>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+								<string>{386.26841824505971, -0.34923385749858116}</string>
+								<string>{271.79985945028056, -1.1534858955619134}</string>
+								<string>{272.37603972201492, -54.738251166855633}</string>
+							</array>
+							<array>
+								<string>{-273.42651219048713, -0.58191562406512609}</string>
+								<string>{-384.95190657653393, -0.91772464032405265}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+								<string>{-273.43692626120793, -55.038720175748345}</string>
+							</array>
+							<array>
+								<string>{63.654415801525914, -356.34724173001177}</string>
+								<string>{32.540681127871494, -355.81044878154057}</string>
+								<string>{18.424264470380141, -382.31474128132021}</string>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+							</array>
+							<array>
+								<string>{-273.72501639707508, -164.51297180527314}</string>
+								<string>{-257.00340964375368, -136.58173285127637}</string>
+								<string>{-273.43692626120793, -109.77584599051075}</string>
+							</array>
+							<array>
+								<string>{272.37603972201492, -54.738251166855633}</string>
+								<string>{255.6834494576523, -81.697722723642258}</string>
+								<string>{272.08794958614772, -109.45399529184664}</string>
+							</array>
+							<array>
+								<string>{-273.43692626120793, -109.77584599051075}</string>
+								<string>{-257.0157885167792, -82.119192947262377}</string>
+								<string>{-273.43692626120793, -55.038720175748345}</string>
+							</array>
+							<array>
+								<string>{-18.739363056484859, -382.31474128132021}</string>
+								<string>{-33.143869849843384, -356.080533283916}</string>
+								<string>{-64.257604523497804, -356.36862341978321}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{-209.74312313641892, -274.83911496937395}</string>
+								<string>{-224.4492242907634, -247.74513797274113}</string>
+								<string>{-256.98990541863492, -247.7586421978599}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{-273.71263752404957, -219.55169198102149}</string>
+								<string>{-257.56608569036922, -191.8691558396288}</string>
+								<string>{-273.72501639707508, -164.51297180527314}</string>
+							</array>
+							<array>
+								<string>{-160.76780003899992, -302.2076778767551}</string>
+								<string>{-176.61275751169433, -274.55102483350674}</string>
+								<string>{-209.74312313641892, -274.83911496937395}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{159.87652118116088, -301.88582717809101}</string>
+								<string>{128.1866062357721, -301.88582717809101}</string>
+								<string>{112.62973889894491, -329.55485909436493}</string>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+							</array>
+							<array>
+								<string>{-273.43692626120793, -55.038720175748345}</string>
+								<string>{-257.55493132657949, -27.256226460726594}</string>
+								<string>{-273.42651219048713, -0.58191562406512609}</string>
+							</array>
+							<array>
+								<string>{-273.43692626120793, -109.77584599051075}</string>
+								<string>{-273.43692626120793, -55.038720175748345}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+								<string>{-273.72501639707508, -164.51297180527314}</string>
+							</array>
+							<array>
+								<string>{-273.71263752404957, -219.55169198102149}</string>
+								<string>{-273.72501639707508, -164.51297180527314}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{-256.98990541863492, -247.7586421978599}</string>
+								<string>{-273.71263752404957, -219.55169198102149}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{272.2316741693574, -164.17874223358351}</string>
+								<string>{256.38671669666303, -191.83539527683189}</string>
+								<string>{272.51976430522456, -219.49204832008024}</string>
+							</array>
+							<array>
+								<string>{-113.52101775678396, -329.28815064826915}</string>
+								<string>{-129.6540653653455, -301.91958774088795}</string>
+								<string>{-160.76780003899992, -302.2076778767551}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{272.08794958614772, -109.45399529184664}</string>
+								<string>{256.38671669666303, -136.52208919033512}</string>
+								<string>{272.2316741693574, -164.17874223358351}</string>
+							</array>
+							<array>
+								<string>{255.81053642492867, -247.72488163506296}</string>
+								<string>{223.54444120780556, -247.72488163506296}</string>
+								<string>{207.92074867958112, -274.69983394570886}</string>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+							</array>
+							<array>
+								<string>{207.92074867958112, -274.69983394570886}</string>
+								<string>{175.72147865385526, -274.80535440657701}</string>
+								<string>{159.87652118116088, -301.88582717809101}</string>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+							</array>
+							<array>
+								<string>{271.79985945028056, -1.1534858955619134}</string>
+								<string>{256.8191723851877, -27.657778395341602}</string>
+								<string>{272.37603972201492, -54.738251166855633}</string>
+							</array>
+							<array>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+								<string>{272.37603972201492, -54.738251166855633}</string>
+								<string>{272.08794958614772, -109.45399529184664}</string>
+								<string>{272.2316741693574, -164.17874223358351}</string>
+								<string>{272.51976430522456, -219.49204832008024}</string>
+							</array>
+							<array>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+								<string>{272.51976430522456, -219.49204832008024}</string>
+								<string>{255.81053642492867, -247.72488163506296}</string>
+							</array>
+							<array>
+								<string>{-64.257604523497804, -356.36862341978321}</string>
+								<string>{-80.678742267926523, -329.28815064826915}</string>
+								<string>{-113.52101775678396, -329.28815064826915}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+							</array>
+							<array>
+								<string>{112.62973889894491, -329.55485909436493}</string>
+								<string>{80.363643681821813, -329.55485909436493}</string>
+								<string>{63.654415801525914, -356.34724173001177}</string>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+							</array>
+							<array>
+								<string>{-18.739363056484859, -382.31474128132021}</string>
+								<string>{-386.91731728350868, -515.37116287564004}</string>
+								<string>{385.99353740238342, -513.7004731638001}</string>
+								<string>{18.424264470380141, -382.31474128132021}</string>
+							</array>
+						</array>
+						<key>friction</key>
+						<real>0.2000000029802322</real>
+						<key>name</key>
+						<string>UntitledShape_1</string>
+						<key>restitution</key>
+						<real>0</real>
+						<key>sensor</key>
+						<false/>
+						<key>shapeID</key>
+						<integer>0</integer>
+						<key>type</key>
+						<integer>4</integer>
+					</dict>
+				</array>
+				<key>sleep</key>
+				<true/>
+				<key>type</key>
+				<integer>1</integer>
+			</dict>
+			<key>frame</key>
+			<string>{{133, 1}, {768, 1024}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {768, 1024}}</string>
+			<key>sourceSize</key>
+			<string>{768, 1024}</string>
+			<key>tag</key>
+			<integer>0</integer>
+			<key>tint</key>
+			<string>{{249, 255}, {244, 255}}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{903, 1027}</string>
+		<key>textureFileName</key>
+		<string>PhysicalSpritesObjects_ipad.png</string>
+	</dict>
+</dict>
+</plist>

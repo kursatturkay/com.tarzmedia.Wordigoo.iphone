@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SoloGameLayer getSelectedWord]:SoloGameLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GHSpriteHexagon selectedHexagons]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer popAnimateAddedScore]:SoloGameLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "ee.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WordDescriptionLayer onEnter]:WordDescriptionLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "selword_">
+            </PersistentString>
+            <PersistentString
+               value = "[desc length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer isNothingTouched:]:SoloGameLayer.mm">
+      </ContextState>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "aparent.children.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer(UI) initBoard]:SoloGameLayer+UI.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[KTBingoEngine checkAndFillBingoBag]:KTBingoEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "fg_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IntroLayer WGDidFinishLoading:asyncResultType:Success:data:]:IntroLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "adata">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer init]:SoloGameLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.cloneSprite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer autonomSwap]:SoloGameLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.swapTimer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[JoinOnlineLayer initPlatform]:JoinOnlineLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "lbl1_.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "tf2.position">
+            </PersistentString>
+            <PersistentString
+               value = "btn1.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer actTouchesInToggleMode:]:SoloGameLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[self cloneSprite]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "objc_msgSend:(null)">
+         <PersistentStrings>
+            <PersistentString
+               value = "[letterPoints Count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GHSpriteContactListener::EndContact(b2Contact*):GHSpriteContactListener.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer(UI) setColorForWordsInDescriptionLabel:Color:]:SoloGameLayer+UI.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "txt_">
+            </PersistentString>
+            <PersistentString
+               value = "[[description_label_ children]count]">
+            </PersistentString>
+            <PersistentString
+               value = "range.location+i">
+            </PersistentString>
+            <PersistentString
+               value = "arr.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Medal checkandUpgradeLevelSignetByPoint:]:Medal.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "isNowThinker">
+            </PersistentString>
+            <PersistentString
+               value = "isNowClever">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AvatarLayer btnNextPressed:]:AvatarLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "renderTexture.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoSprite.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoSprite.boundingBox">
+            </PersistentString>
+            <PersistentString
+               value = "renderTexture.position">
+            </PersistentString>
+            <PersistentString
+               value = "self.photoSprite.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[HJMaskedSprite initWithFile:andImageOverlay:]:HJMaskedSprite.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer(UI) rePositionBoard:]:SoloGameLayer+UI.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "menu_.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "ccp(sz.width/2,menu_sz_.height);">
+            </PersistentString>
+            <PersistentString
+               value = "score_layer_.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "score_layer_.boundingBox">
+            </PersistentString>
+            <PersistentString
+               value = "desc_label.string">
+            </PersistentString>
+            <PersistentString
+               value = "[menu_ anchorPoint]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WGScoreCore createDisplayScoreLabelTo:withText:withX:withY:andAlignment:]:WGScoreCore.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[ee tag]">
+            </PersistentString>
+            <PersistentString
+               value = "[(CCLabelBmFont*)ee] string]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KTBingoEngine initSingleton]:KTBingoEngine.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[WGScoreCore isOnlineRegistered:]:WGScoreCore.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[str isEqualToString:@&quot;&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "urlstr">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[KTBingoEngine sharedEngine]:KTBingoEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "a">
+            </PersistentString>
+            <PersistentString
+               value = "[bingoStaticBag class]">
+            </PersistentString>
+            <PersistentString
+               value = "bingoStaticBag">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WordDescriptionLayer buttonReturnBackPressed]:WordDescriptionLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[backScene length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer(UI) loadSoloGameState]:SoloGameLayer+UI.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "totalScore">
+            </PersistentString>
+            <PersistentString
+               value = "[[NSUserDefaults standardUserDefaults]objectForKey:@&quot;soloGameHexagonLetters&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "[location_queue length];">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RulesLayer init]:RulesLayer.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mnu_.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[Medal initMedalto:]:Medal.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "menu.contentSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "__32-[WGScoreCore postRankToServer:]_block_invoke93:WGScoreCore.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "url_">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[KTBingoEngine randomLetter]:KTBingoEngine.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[bingoStaticBag length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer getWordDescriptionFromWordNet:]:SoloGameLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[word_description length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[WordigooCore deletePoppedWordsplist]:WordigooCore.mm">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoloGameLayer(UI) saveSoloGameState]:SoloGameLayer+UI.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "[locationQueue length]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[WGScoreCore getPointByLetterCount:]:WGScoreCore.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[letterPoints count]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IntroLayer initBoard]:IntroLayer.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "menu_.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "menu.contentSize">
+            </PersistentString>
+            <PersistentString
+               value = "menu.position">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
