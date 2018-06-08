@@ -2,7 +2,7 @@
 //  KTBingoEngine.m
 //  wordigoo-iphone
 //
-//  Created by callodiez on 10.08.2013.
+//  Created by Kursat Turkay on 10.08.2013.
 //  Copyright (c) 2013 tarzmedia. All rights reserved.
 //
 

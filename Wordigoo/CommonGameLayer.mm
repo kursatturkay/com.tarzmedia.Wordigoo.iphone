@@ -2,7 +2,7 @@
 //  CommonGameLayer.m
 //  wordigoo
 //
-//  Created by callodiez on 16.08.2013.
+//  Created by Kursat Turkay on 16.08.2013.
 //  Copyright (c) 2013 tarzmedia. All rights reserved.
 //
 

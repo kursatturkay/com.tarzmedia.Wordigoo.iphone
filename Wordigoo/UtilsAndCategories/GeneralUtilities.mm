@@ -2,7 +2,7 @@
 //  NSString+blab.m
 //  YasayanMasallar
 //
-//  Created by callodiez on 12.02.2013.
+//  Created by Kursat Turkay on 12.02.2013.
 //
 //
 

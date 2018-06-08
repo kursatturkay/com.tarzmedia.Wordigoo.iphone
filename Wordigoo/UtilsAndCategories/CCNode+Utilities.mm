@@ -2,7 +2,7 @@
 //  CCNode+CCNodeUtilities.m
 //  YasayanMasallar
 //
-//  Created by callodiez on 19.05.2013.
+//  Created by Kursat Turkay on 19.05.2013.
 //
 //
 

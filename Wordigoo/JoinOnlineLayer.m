@@ -2,7 +2,7 @@
 //  JoinOnlineLayer.m
 //  wordigoo-iphone
 //
-//  Created by callodiez on 01.09.2013.
+//  Created by Kursat Turkay on 01.09.2013.
 //  Copyright (c) 2013 tarzmedia. All rights reserved.
 //
 

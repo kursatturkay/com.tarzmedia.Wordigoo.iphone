@@ -2,7 +2,7 @@
 //  DirectoryUtils.m
 //  Wordigoo
 //
-//  Created by callodiez on 14.07.2013.
+//  Created by Kursat Turkay on 14.07.2013.
 //  Copyright (c) 2013 tarzmedia. All rights reserved.
 //
 

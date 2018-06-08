@@ -2,7 +2,7 @@
 //  Medal.h
 //  wordigoo
 //
-//  Created by callodiez on 25.08.2013.
+//  Created by Kursat Turkay on 25.08.2013.
 //  Copyright (c) 2013 tarzmedia. All rights reserved.
 //
 

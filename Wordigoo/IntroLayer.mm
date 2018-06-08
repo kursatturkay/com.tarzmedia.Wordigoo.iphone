@@ -2,7 +2,7 @@
 //  IntroLayer.m
 //  wordible
 //
-//  Created by callodiez on 08.07.2013.
+//  Created by Kursat Turkay on 08.07.2013.
 //  Copyright tarzmedia 2013. All rights reserved.
 //
 

@@ -2,7 +2,7 @@
 //  RulesLayer.h
 //  CCScrollLayerTest01
 //
-//  Created by callodiez on 16.06.2013.
+//  Created by Kursat Turkay on 16.06.2013.
 //  Copyright tarzmedia 2013. All rights reserved.
 //
 

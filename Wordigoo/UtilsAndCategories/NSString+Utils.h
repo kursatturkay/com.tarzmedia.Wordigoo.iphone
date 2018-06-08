@@ -2,7 +2,7 @@
 //  NSString+Utils.h
 //  cocos2d-ios
 //
-//  Created by callodiez on 06.07.2013.
+//  Created by Kursat Turkay on 06.07.2013.
 //
 //
 
