@@ -4,11 +4,11 @@
 You can download at appstore for free.
 
 
-![Cover Picture 1](./coverpics/coverpic1.jpg)
-![Cover Picture 1](./coverpics/coverpic2.jpg)
-![Cover Picture 1](./coverpics/coverpic3.jpg)
-![Cover Picture 1](./coverpics/coverpic4.jpg)
-![Cover Picture 1](./coverpics/coverpic5.jpg)
+![Cover Picture 1](./coverpics/coverpic1.png)
+![Cover Picture 1](./coverpics/coverpic2.png)
+![Cover Picture 1](./coverpics/coverpic3.png)
+![Cover Picture 1](./coverpics/coverpic4.png)
+![Cover Picture 1](./coverpics/coverpic5.png)
 
 ---
 >## Authors
