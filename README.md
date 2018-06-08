@@ -13,7 +13,7 @@ You can download at appstore for free.
 ---
 >## Authors
 >
-  **Kursat Turkay** - Contributor [PortoSchool](https://github.com/kursatturkay/com.tarzmedia.Wordigoo.iphone)
+  **Kursat Turkay** - Contributor [Wordigo EX Iphone Game coded in Objective-C and cocos2d-iphone framework](https://github.com/kursatturkay/com.tarzmedia.Wordigoo.iphone)
 
 ---
 
