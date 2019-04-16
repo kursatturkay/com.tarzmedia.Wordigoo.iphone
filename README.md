@@ -27,3 +27,7 @@ This project is licensed under the Mozilla Public License Version 2.0 - see the 
 >
 
 Please read [CONTRIBUTING.md](https://https://github.com/kursatturkay/com.tarzmedia.Wordigoo.iphone/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+
+>## BEFORE COMPILE
+
+Delete All readme.md files and changelog. otherwise you will get compile errors.
